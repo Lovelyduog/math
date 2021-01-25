@@ -5,5 +5,6 @@ int main(void)
 {
     Struct::Array array;
     int a;
+    int c;
     return 0;
 }
